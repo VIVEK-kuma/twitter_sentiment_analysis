@@ -1,6 +1,8 @@
 # twitter_sentiment_analysis
 twitter sentiment analysis using various classification methods
 
+The file name starting with final is the final notebook please review it
+
 
 Datset contains nearly 31k tweets along with the tweet and the label associated with them
 here label 1 means tweet is racist/sexist and label 0 means it is not raicist/sexist
